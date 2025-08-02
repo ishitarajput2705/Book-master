@@ -1,0 +1,11 @@
+Python 3.8+
+Flask – for building the web server
+Pandas – for handling and processing book dataset
+NumPy – for data manipulation
+Scikit-learn – for content-based filtering using TF-IDF
+IBM Watson Assistant – for chatbot functionality
+IBM Cloud account – to create and deploy Watson Assistant
+HTML, CSS, JavaScript – for front-end structure and chatbot embedding
+Jinja2 – (comes with Flask) for rendering templates
+Web browser – to access the website interface
+pip – for managing Python dependencies
